@@ -1,6 +1,6 @@
 MERN Stack Authentication SystemA complete, production-ready authentication system built using the MERN stack 
 (MongoDB, Express, React, Node.js). This project implements secure user registration, login, email verification,
-and password reset functionality using JSON Web Tokens (JWT) and OTP verification via email.
+and password reset functionality using JSON Web Tokens (JWT) and OTP verification via email. 
 
 🚀 Features
 User Authentication: Secure Sign Up, Login, and Logout.
