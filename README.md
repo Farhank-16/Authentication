@@ -99,4 +99,3 @@ Tokens: jsonwebtoken is used to create secure access tokens.
 Cookies: Tokens are stored in HTTP-only cookies to prevent XSS attacks.
 
 Validation: OTPs are time-sensitive and stored in the database with expiration timestamps.
->>>>>>> 972f8a5 (Readme file updated)
