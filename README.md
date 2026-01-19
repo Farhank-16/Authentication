@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 Complete MERN Authentication System
 
 A robust and secure full-stack authentication system built using the MERN (MongoDB, Express, React, Node.js) stack. This project features high-level security with JWT, secure password resets, and automated email verification using OTPs.
