@@ -60,7 +60,7 @@ SMTP credentials (e.g., Gmail App Password or Mailtrap) for sending emails.
 
 1. Clone the repository
 
-git clone https://github.com/your-username/mern-auth-system.git
+git clone https://github.com/Farhank-16/Authentication.git
 cd mern-auth-system
 
 2. Backend Setup
@@ -71,11 +71,11 @@ npm install
 Create a .env file in the backend folder:
 
 PORT=4000
-MONGODB_URI=your_mongodb_atlas_uri
-JWT_SECRET=your_random_secret_key
-NODE_ENV=development
-SENDER_EMAIL=your_email@gmail.com
-SENDER_PASSWORD=your_email_app_password
+MONGODB_URI=your_mongodb_atlas_uri   
+JWT_SECRET=your_random_secret_key   
+NODE_ENV=development   
+SENDER_EMAIL=your_email@gmail.com   
+SENDER_PASSWORD=your_email_app_password   
 
 Run the server:
 npm run server
