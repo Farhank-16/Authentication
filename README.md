@@ -1,23 +1,14 @@
-<<<<<<< HEAD
-
-=======
 Complete MERN Authentication System
 
 A robust and secure full-stack authentication system built using the MERN (MongoDB, Express, React, Node.js) stack. This project features high-level security with JWT, secure password resets, and automated email verification using OTPs.
 
 🚀 Key Features
 User Registration & Login: Secure signup and login flow with hashed passwords.
-
 Email Verification: Automated verification emails sent upon registration with a 6-digit OTP.
-
 Password Reset: Secure "Forgot Password" workflow using email-based OTP verification.
-
 JWT Authentication: Secure sessions using JSON Web Tokens stored in HTTP-only cookies.
-
 Protected Routes: User-specific dashboard and actions restricted to authenticated users.
-
 Dynamic UI: Clean and modern interface built with React and Tailwind CSS.
-
 Toast Notifications: Real-time feedback for all user actions (Success/Error).
 
 Email Templates: Professionally styled HTML email templates for OTPs and welcome messages.
@@ -102,4 +93,4 @@ Tokens: jsonwebtoken is used to create secure access tokens.
 Cookies: Tokens are stored in HTTP-only cookies to prevent XSS attacks.
 
 Validation: OTPs are time-sensitive and stored in the database with expiration timestamps.
->>>>>>> 972f8a5 (Readme file updated)
+
