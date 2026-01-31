@@ -13,7 +13,7 @@ connectDB();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://mern-auth-delta.vercel.app/'
+  'https://mern-auth-delta.vercel.app'
 ];
 
 
